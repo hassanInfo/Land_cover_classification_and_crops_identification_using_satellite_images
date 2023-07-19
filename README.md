@@ -7,5 +7,6 @@
 
 <br>
 <b>Crops identification of "Rajshahi (Bangladesh)" region:</b>
+
 ![image](https://github.com/hassanInfo/Satellite_imgs_ML_project/assets/85229840/747121b0-bdf0-4c77-9b02-bc2639b9bb13)
 ![image](https://github.com/hassanInfo/Satellite_imgs_ML_project/assets/85229840/b1a896d9-ab8e-47ff-bdd3-e0375a974ae6)
