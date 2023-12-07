@@ -1,8 +1,8 @@
-<dive align="center">
+<div align="center">
   
 # Land cover classification and crops identification using satellite images  
 
-</dive>
+</div>
 
 🌍 The project comprises two distinct sub-projects. 🌿 In the initial phase, we conducted land cover classification within the intricate Sandarbans forest area. Utilizing machine learning models trained on a dataset specific to the region, we successfully applied these models to both Sandarbans and a Moroccan region. This demonstrated the adaptability of the models in effectively identifying land cover patterns.
 The second sub-project is dedicated to the identification of various crops, including lentil, mustard, potato, rice, and wheat. 🌾 The code for both sub-projects is consolidated in the ipynb file. Additionally, the repository includes a PDF report that encompasses the following sections. 
